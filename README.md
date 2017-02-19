@@ -1,2 +1,4 @@
 # advanced-datastructure
-advanced datastructures with cpp implements
+ - rmq O(nloglogn)
+ - d-ary-heap for dijkstra,MST O(mlog(m/n,n))
+ 
